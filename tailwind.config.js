@@ -13,6 +13,12 @@ module.exports = {
           },
         },
       }),
+      colors: {
+        bleu: '#3549cd',
+      },
+      fontFamily: {
+        neo:['Arial','sans-serif'],
+      },
     },
     container: {
       center: true,
